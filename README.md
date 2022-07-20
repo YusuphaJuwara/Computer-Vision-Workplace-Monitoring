@@ -4,7 +4,7 @@
     
  Secondly, the software is able to recognise a face with or without a medical mask so that if a person within working hours is detected not to be wearing one, they have to be expelled.
     
-    Furthemore, our software detects number plates using OCR for two reasons. The first one is that it helps the company decide how to allocate transport allowances to their employees. The second is for security reasons in case of a break in or other unfortunate situations in which a company might recquire such identification.
+  Furthemore, our software detects number plates using OCR for two reasons. The first one is that it helps the company decide how to allocate transport allowances to their employees. The second is for security reasons in case of a break in or other unfortunate situations in which a company might recquire such identification.
     
  Lastly, if someone visits the buildings outside working hours, their face will be detected and sent out through the software which will in turn call the authorities unless the person is cleared to come inside. 
 
