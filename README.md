@@ -10,4 +10,4 @@
 
  There has evidently been countless usage of face recognition in the last decades. From governmental and military affairs, to phone security to even shopping with amazon's "Amazon Go". OCR has also grown massively as a computer vision solution for security but also hacking. However we have been seeing a lot of casual uses of OCR in the last decade for solver apps or even apple's IPhone making it now possible to copy text from a picture. On the other hand, mask detection has obviously only been popular in response to 2020's global pandemic as a means to enforce health restrictions. Ultimately, all three methods used here have been developed and perfected for the same reasons we are using them. All we are doing is putting all of them together in one software adjusted specifically for our case.
  
- For thorough reading, see the re
+ For thorough reading, see the project report file https://github.com/YusuphaJuwara/Computer-Vision-Workplace-Monitoring/blob/main/project%20report.ipynb
